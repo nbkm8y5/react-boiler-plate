@@ -1,0 +1,11 @@
+.ha_submit_btn{
+    padding: .6em 1em .6em;
+    border-radius: 5px;
+    background: #ffffff;
+    border: 1px solid black;
+    margin: 0px 5px;
+}
+
+.ha_submit_btn:hover{
+    box-shadow: 2px 2px 2px #ccc;
+}

@@ -1,0 +1,21 @@
+.chatbox-wrapper{
+    margin: 10px;
+}
+
+.chatbox-form{
+    padding: 10px;
+    border-radius: 5px;
+     background-image: -webkit-gradient(linear, left top, left bottom, from(orange), to(purple));
+    background-image: -webkit-linear-gradient(top, orange, purple);
+    background-image: -moz-linear-gradient(top, orange, purple);
+    background-image: linear-gradient(to bottom, orange, purple);
+}
+
+.input-wrapper{
+    margin: 5px;
+}
+
+.input-text{
+    border-radius: 5px;
+    padding: .6em 1em .6em
+}
